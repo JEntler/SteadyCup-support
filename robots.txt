@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jentler.github.io/SteadyCup-support/sitemap.xml
